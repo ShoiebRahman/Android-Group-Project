@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Group Project</string>
+
+    <string name="welcome_text">Welcome to the project</string>
+    <string name="username_text">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+
+
+</resources>
